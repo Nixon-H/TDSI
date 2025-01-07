@@ -17,7 +17,7 @@ from datetime import datetime
 num_epochs = 100
 batch_size = 1
 audio_length = 8000
-learning_rate = 5e-3  # Updated learning rate
+learning_rate = 1e-3  # Updated learning rate
 nbits = 32
 latent_dim = 128
 
